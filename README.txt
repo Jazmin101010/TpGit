@@ -33,5 +33,4 @@ https://github.com/mhuggins/jquery-countTo
 
 Demo Images:
 http://unsplash.com
-
-probando
+probar commit
